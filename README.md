@@ -18,3 +18,5 @@ python src/base58_example.py
 # Desactivar y eliminar el entorno
 deactivate
 rm -r venv
+# encryption_methods
+Useful encryption methods on .py. Useful fro JavaScript too. 
